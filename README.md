@@ -12,9 +12,10 @@ TECHNOLOGY : Data Analytics <br>
 TEAM ID : PNT2022TMID39750
 
 ## 👨‍👩‍👦TEAM MEMBERS
- - Kiran Kumar K (TL)
- - Shriprasanna B
+
  - Praveen N
+ - Kiran Kumar K 
+ - Shriprasanna B
  - Ram Sanjay S
 
 ## 📒PROJECT DESCRIPTION:
