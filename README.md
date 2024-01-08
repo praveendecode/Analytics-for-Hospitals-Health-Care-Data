@@ -15,7 +15,7 @@ TEAM ID : PNT2022TMID39750
 
  - Praveen N
  - Kiran Kumar K 
- - Shriprasanna B
+ - Shriprasanna B   
  - Ram Sanjay S
 
 ## 📒PROJECT DESCRIPTION:
